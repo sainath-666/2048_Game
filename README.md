@@ -6,7 +6,7 @@ A beautiful, modern implementation of the classic 2048 puzzle game built with HT
 
 ## 🔗 Quick Links
 
-- [Play the Game Live](https://sainath65.github.io/2048_Game)
+- [Play the Game Live](https://sainath666.github.io/2048_Game)
 - [Connect with me on LinkedIn](https://www.linkedin.com/in/sainath666)
 
 ## 🎯 Game Overview
